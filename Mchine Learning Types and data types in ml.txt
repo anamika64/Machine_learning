@@ -1,0 +1,68 @@
+Machine Learning
+
+Machine Learning is making the computer learn from studying data and statistics.
+
+Machine Learning is a step into the direction of artificial intelligence (AI).
+
+Machine Learning is a program that analyses data and learns to predict the outcome.
+------------------------------------------
+Types of Machine Learning:
+-Supervise machine learning
+-UnSupervise machine learning
+-Reinforcementmachine learning
+-------------------------------------------------------
+Supervise machine learning:
+
+The majority of practical machine learning uses supervised learning.
+Supervised learning is where you have input variables (x) and an output variable (Y) and you use an algorithm to learn the mapping function from the input to the output.
+
+Supervised learning problems can be further grouped into regression and classification problems.
+Classification: A classification problem is when the output variable is a category, such as “red” or “blue” or “disease” and “no disease”.
+Regression: A regression problem is when the output variable is a real value, such as “dollars” or “weight”.
+
+Linear regression for regression problems.
+Random forest for classification and regression problems.
+Support vector machines for classification problems.
+---------------------------------------------------------
+
+-UnSupervise machine learning:
+
+Unsupervised learning is where you only have input data (X) and no corresponding output variables
+
+The goal for unsupervised learning is to model the underlying structure or distribution in the data in order to learn more about the data.
+These are called unsupervised learning because unlike supervised learning above there is no correct answers and there is no teacher. Algorithms are left to their own devises to discover and present the interesting structure in the data.
+
+Unsupervised learning problems can be further grouped into clustering and association problems
+
+Clustering: A clustering problem is where you want to discover the inherent groupings in the data, such as grouping customers by purchasing behavior.
+Association:  An association rule learning problem is where you want to discover rules that describe large portions of your data, such as people that buy X also tend to buy Y.
+
+Some popular examples of unsupervised learning algorithms are:
+
+k-means for clustering problems.
+Apriori algorithm for association rule learning problems.
+---------------------------------------------------------
+
+Data Types:
+Numerical
+Categorical
+Ordinal
+
+Numerical data are numbers, and can be split into two numerical categories:
+
+Discrete Data:
+- numbers that are limited to integers. Example: The number of cars passing by.
+  Continuous Data
+- numbers that are of infinite value. Example: The price of an item, or the size of an item
+
+ Categorical:
+Categorical data are values that cannot be measured up against each other. Example: a color value, or any yes/no values.
+
+Ordinal:
+ Ordinal data are like categorical data, but can be measured up against each other. Example: school grades where A is better than B and so on.
+
+
+
+
+
+
